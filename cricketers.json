@@ -1,1 +1,62 @@
-
+[
+    {
+        "rank": 1,
+        "name": "Virat Kohli",
+        "country": "India",
+        "points": 890
+    },
+    {
+        "rank": 2,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "points": 870
+    },
+    {
+        "rank": 3,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "points": 860
+    },
+    {
+        "rank": 4,
+        "name": "Joe Root",
+        "country": "England",
+        "points": 850
+    },
+    {
+        "rank": 5,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "points": 840
+    },
+    {
+        "rank": 6,
+        "name": "David Warner",
+        "country": "Australia",
+        "points": 830
+    },
+    {
+        "rank": 7,
+        "name": "Rohit Sharma",
+        "country": "India",
+        "points": 820
+    },
+    {
+        "rank": 8,
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "points": 810
+    },
+    {
+        "rank": 9,
+        "name": "Ross Taylor",
+        "country": "New Zealand",
+        "points": 800
+    },
+    {
+        "rank": 10,
+        "name": "Shai Hope",
+        "country": "West Indies",
+        "points": 790
+    }
+]
